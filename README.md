@@ -63,6 +63,7 @@
 - <a href="https://github.com/WMnologo/xingzhi-ai" target="_blank" title="无名科技Nologo-星智-1.54">无名科技Nologo-星智-1.54TFT</a>
 - <a href="https://github.com/WMnologo/xingzhi-ai" target="_blank" title="无名科技Nologo-星智-0.96">无名科技Nologo-星智-0.96TFT</a>
 - <a href="https://www.seeedstudio.com/SenseCAP-Watcher-W1-A-p-5979.html" target="_blank" title="SenseCAP Watcher">SenseCAP Watcher</a>
+- <a href="https://item.taobao.com/item.htm?id=869958914608&pisk=gT1xmkTUmuqcyyCvrZyosDwYw64hM8b42i7IshxmCgIR5itDjETjN4TMlqGshNT66gsgunb_0GC9VNW0udqqWTIVRKjO7r86fGs9jt4utZ72_CZHXWVhuM7uKWsx1KT75eYIlzvXhhS2nCZ3xWVhuZRw1i2ykPHSFe-SlmtffL9Wo3gXlGtXF0Tw7CO1fFOSFF8sGmG6Cz3WJE3jhfMXNUTp5cO61G_7yF-WlCOs10Z9Vqti69g0bJGsBIhs1_LvFLbXcOB_SEJYJZKr1U5Jkk-Cl3hssnmBwvbRoohFrIWFvej0NjIdl9s1dart9n6h8gTWEVcGyajV9I1LDjYlyN6He_4QTIdXcOAVS2EcysIcu_Qi5xIOKiWeB1Zx931VEsJFiuGvO97DiOs7wjIC4i1h9n8txHLiHzCsQAJXzorhZ9n8uHl9yH4Y6AkwUzliH14mQAJPTUK3k-HZQLrP.&skuId=5746555445488&spm=a1z10.3-c-s.w4002-17846374630.9.9aa1c342v1ROr4" target="_blank" title="openjumper-aiboard">openjumper-aiboard</a>
 <div style="display: flex; justify-content: space-between;">
   <a href="docs/v1/lichuang-s3.jpg" target="_blank" title="立创·实战派 ESP32-S3 开发板">
     <img src="docs/v1/lichuang-s3.jpg" width="240" />
@@ -99,6 +100,9 @@
   </a>
   <a href="docs/v1/sensecap_watcher.jpg" target="_blank" title="SenseCAP Watcher">
     <img src="docs/v1/sensecap_watcher.jpg" width="240" />
+  </a>
+  <a href="docs/openjumper-aiboard.jpg" target="_blank" title="openjumper-aiboard">
+    <img src="docs/openjumper-aiboard.jpg" width="240" />
   </a>
 </div>
 
